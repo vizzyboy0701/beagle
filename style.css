@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top-section {
+    background-color: #f4f4f4;
+    padding: 40px;
+}
+
+.top-content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.image-section {
+    text-align: center;
+    padding: 40px;
+}
+
+.image-section img {
+    max-width: 100%;
+    height: auto;
+}
+
+.more-images {
+    margin-top: 20px;
+}
+
+.trivia-section {
+    background-color: #e6e6e6;
+    padding: 40px;
+}
+
+.trivia-section h2 {
+    font-size: 24px;
+}
+
+.trivia-section ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+}
+
+.trivia-section li {
+    margin-bottom: 12px;
+}
